@@ -1,0 +1,12 @@
+# The deterministic decision path needs ONLY the Python 3.10+ standard
+# library -- nothing below is required to reproduce output.csv.
+#
+# These two extras are OPTIONAL and only improve/enable the extraction
+# fallback paths described in README.md ("Where the model is -- and is
+# not"). Uncomment what you need:
+
+# pytesseract>=0.3.10     # OCR for document images (also requires the
+# Pillow>=10.0             # tesseract binary, e.g. `apt install tesseract-ocr`)
+
+# anthropic>=0.40.0        # optional VLM / text-extraction fallback;
+#                          # requires ANTHROPIC_API_KEY in the environment
