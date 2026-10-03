@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Vision-reading cache (agent/image_resolver.py) -- content-hash keyed and
+# safe to delete; regenerated (and re-billed) on first read of each image.
+.image_cache.json
+
+# Never commit real credentials. ANTHROPIC_API_KEY is read from the
+# environment only (see agent/config.py) and must never be hardcoded.
+.env
