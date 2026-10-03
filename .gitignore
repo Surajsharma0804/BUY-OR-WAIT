@@ -9,3 +9,6 @@ __pycache__/
 # Never commit real credentials. ANTHROPIC_API_KEY is read from the
 # environment only (see agent/config.py) and must never be hardcoded.
 .env
+
+# Generated output file (re-created on every run of main.py).
+output.csv
