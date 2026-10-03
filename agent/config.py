@@ -101,7 +101,7 @@ def money(x) -> Decimal:
 # Paths (resolved relative to the repo root so the tool runs from anywhere)
 # ---------------------------------------------------------------------------
 CODE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-REPO_ROOT = os.path.dirname(CODE_DIR)
+REPO_ROOT = CODE_DIR  # project root is where main.py and agent/ live
 DATASET_DIR = os.path.join(REPO_ROOT, "dataset")
 IMAGES_DIR = os.path.join(DATASET_DIR, "media", "images")
 OUTPUT_CSV = os.path.join(REPO_ROOT, "output.csv")
