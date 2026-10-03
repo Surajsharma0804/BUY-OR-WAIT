@@ -1,0 +1,10 @@
+payment_option_id,request_id,payment_method,payment_amount,number_of_payments,first_payment_date,payment_frequency_days,financing_fee,total_payable_amount
+payment_option_01,request_01,full_payment,3000.00,1,2026-10-01,,0.00,3000.00
+payment_option_02,request_01,installments,1050.00,3,2026-10-01,30,150.00,3150.00
+payment_option_03,request_02,full_payment,15000.00,1,2026-10-01,,0.00,15000.00
+payment_option_04,request_02,installments,5200.00,3,2026-10-01,30,600.00,15600.00
+payment_option_05,request_03,full_payment,4500.00,1,2026-10-01,,0.00,4500.00
+payment_option_06,request_04,full_payment,800.00,1,2026-10-01,,0.00,800.00
+payment_option_07,request_05,full_payment,50000.00,1,2026-10-01,,0.00,50000.00
+payment_option_08,request_05,installments,17500.00,3,2026-10-01,30,2500.00,52500.00
+payment_option_09,request_06,full_payment,1000.00,1,2026-10-01,,0.00,1000.00

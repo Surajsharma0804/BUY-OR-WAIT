@@ -1,0 +1,4 @@
+user_id,home_currency,current_available_balance,minimum_balance_to_keep,financial_priorities,expense_categories_to_protect,expense_categories_user_is_willing_to_reduce,expense_categories_user_is_willing_to_stop,payment_methods_user_will_consider,max_installment_months
+user_01,USD,15000.00,2000.00,savings|debt_repayment,rent|utilities,dining|entertainment,subscriptions,full_payment|partial_payment|installments|wait,6
+user_02,USD,5000.00,1000.00,emergency_fund|savings,rent|groceries,entertainment|dining,,full_payment|wait,3
+user_03,INR,250000.00,50000.00,savings|investments,rent|utilities|groceries,dining|entertainment,subscriptions|gym,full_payment|partial_payment|installments|wait,6

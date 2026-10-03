@@ -1,0 +1,6 @@
+request_id,user_id,request_date,request_type,requested_amount,desired_completion_date,allows_partial_payment,request_text
+request_01,user_01,2026-10-01,purchase,3000.00,2026-12-15,TRUE,I want to buy a new laptop for work. Can I afford it right now or should I wait?
+request_02,user_01,2026-10-01,purchase,15000.00,2026-12-31,TRUE,Looking to buy a used car. What is the safest amount I can pay?
+request_03,user_02,2026-10-01,purchase,4500.00,2026-11-30,FALSE,Need to pay for a professional certification course. Full payment only.
+request_04,user_02,2026-10-01,purchase,800.00,2026-12-15,TRUE,Want to buy a new phone. Can I afford this purchase?
+request_05,user_03,2026-10-01,purchase,50000.00,2026-12-31,TRUE,Planning to buy new furniture for the living room. What do you recommend?

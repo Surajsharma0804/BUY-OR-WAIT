@@ -1,0 +1,3 @@
+message_id,user_id,request_id,related_event_id,sent_at,source_type,message_text
+message_01,user_01,,,2026-09-20T10:00:00Z,employer,Your regular salary for the next payroll cycle is confirmed at the current rate. Payment will be processed on the usual schedule.
+message_02,user_03,,,2026-09-25T14:30:00Z,employer,Your regular salary for the next payroll cycle is confirmed at the current rate. Payment will be processed on the usual schedule.
